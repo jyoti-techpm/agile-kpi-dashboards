@@ -35,6 +35,8 @@ This dashboard reflects real-world reporting for agile delivery:
 - Reporting to product stakeholders and program managers
 
 ## 🔗 Created By
+![image](https://github.com/user-attachments/assets/971052d4-6198-440a-af01-be074b6bac4d)
+
 
 **Jyotirmayee**  
 Power BI | Agile Metrics | Delivery Intelligence  
